@@ -1,7 +1,7 @@
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! 
   <br>I am Manas Mhasakar. Welcome to my Github!</h1>
 
-<p align="center">I am a third year undergraduate student pursuing Computer Science Engineering from BITS Pilani, Goa campus.
+<p align="center">I am a fourth year undergraduate student pursuing Computer Science Engineering from BITS Pilani, Goa campus.
  
 <h3>You can reach out to me here:</h3>
 
