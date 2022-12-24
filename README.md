@@ -3,7 +3,7 @@
 
 <p align="center">I am a fourth year undergraduate student pursuing Computer Science Engineering from BITS Pilani, Goa campus.</p>
 <h3>Currently : Backend @ Dezerv. </h3>
-</h3>Formerly : SDE Intern @ ServiceNow, Coulomb.AI</h3>
+<h3>Formerly : SDE Intern @ ServiceNow, Coulomb.AI</h3>
 <h3>You can reach out to me here:</h3>
 
 [![Linkedin: Manas Mhasakar](https://img.shields.io/badge/-Manas_Mhasakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manas-mhasakar-abb123176/)](https://www.linkedin.com/in/manas-mhasakar-abb123176/)
