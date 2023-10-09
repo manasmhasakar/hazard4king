@@ -1,7 +1,8 @@
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! 
   <br>I am Manas Mhasakar. Welcome to my Github!</h1>
 
-<p align="center">I am Research Fellow at Microsoft Research, India. I'm a recent Computer Science Engineering graduate from BITS Pilani, Goa campus.</p>
+<p align="center">I am Research Fellow at Microsoft Research, India</p>
+<p> CS Undergrad from BITS Pilani, Goa Campus (2019-2023)</p>
 <p>Formerly interned at @mewtthebank, @Dezerv., ServiceNow, Coulomb.AI</p>
 <h3>You can reach out to me here:</h3>
 
